@@ -1,0 +1,19 @@
+﻿  chair.cpp
+  classroom.cpp
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(153): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(162): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(162): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(292): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(305): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(486): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(487): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\classroom.cpp(508): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  fan.cpp
+  read.cpp
+  table.cpp
+c:\users\lewis\source\repos\cm3116\coursework\3dscene\3d classroom\3d classroom\table.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  3D Classroom.vcxproj -> C:\Users\Lewis\source\repos\CM3116\Coursework\3DScene\3D Classroom\Debug\3D Classroom.exe
